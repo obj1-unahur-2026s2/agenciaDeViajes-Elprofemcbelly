@@ -11,7 +11,7 @@ class Beneficios {
         return costo
     }
     
-    method vigente() {
+    method estaVigente() {
         return vigente
     }
 
